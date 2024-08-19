@@ -1,0 +1,42 @@
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\background.xnb
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\Berlin Left.xnb
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\Berlin Right.xnb
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\key.xnb
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\Nairobi left.xnb
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\Nairobi right.xnb
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\platform1_image.xnb
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\platform_image.xnb
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\Professor left.xnb
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\Professor right.xnb
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\Rio Left.xnb
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\Rio Right.xnb
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\Tokyo left.xnb
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\Tokyo right.xnb
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Game_Part_3.exe
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Game_Part_3.pdb
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Microsoft.Xna.Framework.dll
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Microsoft.Xna.Framework.xml
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\obj\x86\Debug\Game_Part_3.csprojResolveAssemblyReference.cache
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\obj\x86\Debug\Game_Part_3.exe
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\obj\x86\Debug\Game_Part_3.pdb
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\SpriteFont1.xnb
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\onebyonepixel.xnb
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\youlose.xnb
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\youwin.xnb
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\vaultClosed.xnb
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\vaultOpen.xnb
+U:\Documents\Visual Studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\keySound.xnb
+U:\Documents\Visual Studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\bellaCiao.xnb
+U:\Documents\Visual Studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\bellaCiao.wma
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\LoseSound.xnb
+U:\Documents\Visual Studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\WinSound.xnb
+U:\Documents\Visual Studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\JumpSound.xnb
