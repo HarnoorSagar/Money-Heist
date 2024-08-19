@@ -1,0 +1,2 @@
+u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3Content\obj\x86\Debug\Game_Part_3Content.contentprojResolveAssemblyReference.cache
+C:\Noor Work\School Account Backup\Takeout 1 - School Drive\Takeout\Drive\Grade 12\Comp Sci\Video Game\Day Codes\Day 15\Game Part 3\Game Part 3\Game_Part_3Content\obj\x86\Debug\Game_Part_3Content.contentprojResolveAssemblyReference.cache

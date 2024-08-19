@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2023-12-18T09:57:58.9494379-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Berlin Left.PNG</Source>
+      <Name>Berlin Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\Berlin Left.xnb</Output>
+      <Time>2023-12-18T09:57:59.1469397-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Berlin Right.png</Source>
+      <Name>Berlin Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\Berlin Right.xnb</Output>
+      <Time>2023-12-18T09:57:59.3613683-05:00</Time>
+    </Item>
+    <Item>
+      <Source>key.png</Source>
+      <Name>key</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\key.xnb</Output>
+      <Time>2024-01-12T09:18:19.4987265-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Nairobi left.png</Source>
+      <Name>Nairobi left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\Nairobi left.xnb</Output>
+      <Time>2023-12-18T09:57:56.7826454-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Nairobi right.PNG</Source>
+      <Name>Nairobi right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\Nairobi right.xnb</Output>
+      <Time>2023-12-18T09:57:57.0222692-05:00</Time>
+    </Item>
+    <Item>
+      <Source>platform1_image.png</Source>
+      <Name>platform1_image</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\platform1_image.xnb</Output>
+      <Time>2023-12-18T09:57:57.2501947-05:00</Time>
+    </Item>
+    <Item>
+      <Source>platform_image.png</Source>
+      <Name>platform_image</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\platform_image.xnb</Output>
+      <Time>2023-12-20T09:50:25.2675617-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Professor left.PNG</Source>
+      <Name>Professor left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\Professor left.xnb</Output>
+      <Time>2023-12-18T09:57:57.4719663-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Professor right.png</Source>
+      <Name>Professor right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\Professor right.xnb</Output>
+      <Time>2023-12-18T09:57:57.6913163-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Rio Left.PNG</Source>
+      <Name>Rio Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\Rio Left.xnb</Output>
+      <Time>2023-12-18T09:57:57.92971-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Rio Right.png</Source>
+      <Name>Rio Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\Rio Right.xnb</Output>
+      <Time>2023-12-18T09:57:58.1436824-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tokyo left.PNG</Source>
+      <Name>Tokyo left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\Tokyo left.xnb</Output>
+      <Time>2023-12-18T09:57:58.3659034-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tokyo right.png</Source>
+      <Name>Tokyo right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\Tokyo right.xnb</Output>
+      <Time>2023-12-18T09:57:58.5642653-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2024-01-15T10:55:13.5572491-05:00</Time>
+    </Item>
+    <Item>
+      <Source>onebyonepixel.png</Source>
+      <Name>onebyonepixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\onebyonepixel.xnb</Output>
+      <Time>2024-01-15T10:46:41.5753085-05:00</Time>
+    </Item>
+    <Item>
+      <Source>youlose.png</Source>
+      <Name>youlose</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\youlose.xnb</Output>
+      <Time>2024-01-15T10:57:34.7439581-05:00</Time>
+    </Item>
+    <Item>
+      <Source>youwin.png</Source>
+      <Name>youwin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\youwin.xnb</Output>
+      <Time>2024-01-15T10:57:34.9802191-05:00</Time>
+    </Item>
+    <Item>
+      <Source>vaultClosed.PNG</Source>
+      <Name>vaultClosed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\vaultClosed.xnb</Output>
+      <Time>2024-01-15T11:18:05.2512409-05:00</Time>
+    </Item>
+    <Item>
+      <Source>vaultOpen.PNG</Source>
+      <Name>vaultOpen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\vaultOpen.xnb</Output>
+      <Time>2024-01-15T11:18:05.1267931-05:00</Time>
+    </Item>
+    <Item>
+      <Source>keySound.wav</Source>
+      <Name>keySound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\Documents\Visual Studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\keySound.xnb</Output>
+      <Time>2024-01-16T10:30:08.7438335-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bellaCiao.mp3</Source>
+      <Name>bellaCiao</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\Documents\Visual Studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\bellaCiao.xnb</Output>
+      <Extra>U:\Documents\Visual Studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\bellaCiao.wma</Extra>
+      <Time>2024-01-16T11:09:08.8512706-05:00</Time>
+    </Item>
+    <Item>
+      <Source>LoseSound.wav</Source>
+      <Name>LoseSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>u:\documents\visual studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\LoseSound.xnb</Output>
+      <Time>2024-01-17T11:13:22.5268262-05:00</Time>
+    </Item>
+    <Item>
+      <Source>WinSound.wav</Source>
+      <Name>WinSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\Documents\Visual Studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\WinSound.xnb</Output>
+      <Time>2024-01-18T11:13:15.276752-05:00</Time>
+    </Item>
+    <Item>
+      <Source>JumpSound.wav</Source>
+      <Name>JumpSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\Documents\Visual Studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\JumpSound.xnb</Output>
+      <Time>2024-01-19T11:13:06.1829539-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{FD861290-F04E-4BB6-B245-82148B328291}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>U:\Documents\Visual Studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3Content\</RootDirectory>
+      <LoggerRootDirectory>U:\Documents\Visual Studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\</LoggerRootDirectory>
+      <IntermediateDirectory>U:\Documents\Visual Studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>U:\Documents\Visual Studio 2015\Projects\Game Part 3\Game Part 3\Game_Part_3\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2022-08-26T08:03:16.2251502-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game_Part_3", "Game Part 3\Game_Part_3\Game_Part_3.csproj", "{5F7C8369-7D10-4A7F-B0EB-6722732901CE}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Game_Part_3Content", "Game Part 3\Game_Part_3Content\Game_Part_3Content.contentproj", "{FD861290-F04E-4BB6-B245-82148B328291}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F7C8369-7D10-4A7F-B0EB-6722732901CE}.Debug|x86.ActiveCfg = Debug|x86
+		{5F7C8369-7D10-4A7F-B0EB-6722732901CE}.Debug|x86.Build.0 = Debug|x86
+		{5F7C8369-7D10-4A7F-B0EB-6722732901CE}.Release|x86.ActiveCfg = Release|x86
+		{5F7C8369-7D10-4A7F-B0EB-6722732901CE}.Release|x86.Build.0 = Release|x86
+		{FD861290-F04E-4BB6-B245-82148B328291}.Debug|x86.ActiveCfg = Debug|x86
+		{FD861290-F04E-4BB6-B245-82148B328291}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
